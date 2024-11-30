@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Konstantinos
 
-<!--
-**kodepapa/kodepapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who loves to tackle real world problems and is passionate about the world of AI/ML.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛰️ I’m working on building the new era ERP @ [Everest Systems](https://www.everest-systems.com/)
+- 💬 Ask me about AI (especially share thoughts regarding biomedical AI)
+- ⚡ Fun fact: Despicte having family in Greece, I don't like olives and feta 
+
+## 🔧 Skills
+
+- **Languages:** [Python, JS/TS, Java]
+- **Frameworks:** [PyTorch, LangChain, LangGraph, React, TensorFlow]
+- **Tools:** [Git, Docker]
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-papa-a70b05149/)
+
+---
+
+*Feel free to reach out if you'd like to collaborate or just want to say hi!*
+
