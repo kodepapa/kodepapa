@@ -17,7 +17,7 @@ I'm a software developer who loves to tackle real world problems and is passiona
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-papa-a70b05149/)
-[![Credly](https://img.shields.io/badge/Credly-Credly?style=flat&logo=Credly&logoColor=white&labelColor=orange&color=orange)]([https://www.linkedin.com/in/konstantinos-papa-a70b05149/](https://www.credly.com/users/konsti_papa))
+[![Credly](https://img.shields.io/badge/Credly-Credly?style=flat&logo=Credly&logoColor=white&labelColor=orange&color=orange)](https://www.credly.com/users/konsti_papa)
 
 ---
 
